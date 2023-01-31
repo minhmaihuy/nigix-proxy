@@ -1,1 +1,1 @@
-# nigix-proxy
+# nginx-proxy
